@@ -5,3 +5,5 @@ https://tencentmusic.github.io/jugg/zh/guide/run
 
 https://github.com/tencentmusic/jugg/tree/main/docs/ai_knowledge
 coding 的话 AI 会读这里的文档
+
+https://github.com/tencentmusic/jugg/releases#release-dev-latest
